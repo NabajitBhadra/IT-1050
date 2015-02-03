@@ -1,0 +1,5 @@
+C:\Users\nxb14_000\Desktop\IT 1050 Lab 1\IT 1050 Lab 1\bin\Debug\IT 1050 Lab 1.exe.config
+C:\Users\nxb14_000\Desktop\IT 1050 Lab 1\IT 1050 Lab 1\bin\Debug\IT 1050 Lab 1.exe
+C:\Users\nxb14_000\Desktop\IT 1050 Lab 1\IT 1050 Lab 1\bin\Debug\IT 1050 Lab 1.pdb
+C:\Users\nxb14_000\Desktop\IT 1050 Lab 1\IT 1050 Lab 1\obj\Debug\IT 1050 Lab 1.exe
+C:\Users\nxb14_000\Desktop\IT 1050 Lab 1\IT 1050 Lab 1\obj\Debug\IT 1050 Lab 1.pdb
