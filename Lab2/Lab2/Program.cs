@@ -36,11 +36,13 @@ namespace Lab2
             pC.Species = "gerbil";
             pC.Owner = B;
 
+            String AB = A.GetFullName();
+            String KW = B.GetFullName();
 
             Console.WriteLine (pA.Name + "\t" + "\t" + "\t" + "\t" + pB.Name + "\t" + "\t" + "\t" + pC.Name);
             Console.WriteLine (pA.Age + "\t" + "\t" + "\t" + "\t" + pB.Age + "\t" + "\t" + "\t" + "\t" +  pC.Age);
             Console.WriteLine (pA.Species + "\t" + "\t" + "\t" + "\t" + pB.Species +"\t" + "\t" + "\t" + "\t" + pC.Species);
-            Console.WriteLine (A.GetFullName() + "\t" + "\t" + "\t" + B.GetFullName() + "\t" + "\t" + "\t" + B.GetFullName());
+            Console.WriteLine (AB + "\t" + "\t" + "\t" + KW + "\t" + "\t" + "\t" + KW);
             Console.ReadLine ();
 
         }

@@ -13,8 +13,6 @@ namespace Lab2
 
         public string GetFullName()
         {
-            string FName = this.FirstName;
-            string LName = this.LastName;
             return FirstName + " " + LastName;
         }
     }
